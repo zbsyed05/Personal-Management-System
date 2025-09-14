@@ -1,2 +1,2 @@
 # Personal-Management-System
-Manages information about students and employees, split into faculty an staff, using inheritance and abstract classes. Utilizes input error handling
+Manages information about students and employees, split into faculty an staff, using inheritance and abstract classes. Displays a menu of options: adding, finding, or deleting people from the list. It handles input error and catches exceptions. At the end of the program, a report file is created with the information of every person, sorted by faculty, staff and students. 
